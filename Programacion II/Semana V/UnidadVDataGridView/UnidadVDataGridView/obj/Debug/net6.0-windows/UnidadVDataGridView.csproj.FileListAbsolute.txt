@@ -1,0 +1,17 @@
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\bin\Debug\net6.0-windows\UnidadVDataGridView.exe
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\bin\Debug\net6.0-windows\UnidadVDataGridView.deps.json
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\bin\Debug\net6.0-windows\UnidadVDataGridView.runtimeconfig.json
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\bin\Debug\net6.0-windows\UnidadVDataGridView.dll
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\bin\Debug\net6.0-windows\UnidadVDataGridView.pdb
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\obj\Debug\net6.0-windows\UnidadVDataGridView.csproj.AssemblyReference.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\obj\Debug\net6.0-windows\UnidadVDataGridView.frmEntradaDiario.resources
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\obj\Debug\net6.0-windows\UnidadVDataGridView.csproj.GenerateResource.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\obj\Debug\net6.0-windows\UnidadVDataGridView.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\obj\Debug\net6.0-windows\UnidadVDataGridView.AssemblyInfoInputs.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\obj\Debug\net6.0-windows\UnidadVDataGridView.AssemblyInfo.cs
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\obj\Debug\net6.0-windows\UnidadVDataGridView.csproj.CoreCompileInputs.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\obj\Debug\net6.0-windows\UnidadVDataGridView.dll
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\obj\Debug\net6.0-windows\refint\UnidadVDataGridView.dll
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\obj\Debug\net6.0-windows\UnidadVDataGridView.pdb
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\obj\Debug\net6.0-windows\UnidadVDataGridView.genruntimeconfig.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana V\UnidadVDataGridView\UnidadVDataGridView\obj\Debug\net6.0-windows\ref\UnidadVDataGridView.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdiomasTarea", "IdiomasTarea\IdiomasTarea.csproj", "{2A3B2ABB-6B45-4522-8E38-7BD2FD3B0A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3B2ABB-6B45-4522-8E38-7BD2FD3B0A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3B2ABB-6B45-4522-8E38-7BD2FD3B0A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3B2ABB-6B45-4522-8E38-7BD2FD3B0A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3B2ABB-6B45-4522-8E38-7BD2FD3B0A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C858A792-E3A1-4CB4-B06C-643481D2DB6C}
+	EndGlobalSection
+EndGlobal

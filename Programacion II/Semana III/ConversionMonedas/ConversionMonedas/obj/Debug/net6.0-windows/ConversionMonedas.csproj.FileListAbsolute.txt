@@ -1,0 +1,17 @@
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\bin\Debug\net6.0-windows\ConversionMonedas.exe
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\bin\Debug\net6.0-windows\ConversionMonedas.deps.json
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\bin\Debug\net6.0-windows\ConversionMonedas.runtimeconfig.json
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\bin\Debug\net6.0-windows\ConversionMonedas.dll
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\bin\Debug\net6.0-windows\ConversionMonedas.pdb
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\obj\Debug\net6.0-windows\ConversionMonedas.csproj.AssemblyReference.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\obj\Debug\net6.0-windows\ConversionMonedas.frmCalcular.resources
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\obj\Debug\net6.0-windows\ConversionMonedas.csproj.GenerateResource.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\obj\Debug\net6.0-windows\ConversionMonedas.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\obj\Debug\net6.0-windows\ConversionMonedas.AssemblyInfoInputs.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\obj\Debug\net6.0-windows\ConversionMonedas.AssemblyInfo.cs
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\obj\Debug\net6.0-windows\ConversionMonedas.csproj.CoreCompileInputs.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\obj\Debug\net6.0-windows\ConversionMonedas.dll
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\obj\Debug\net6.0-windows\refint\ConversionMonedas.dll
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\obj\Debug\net6.0-windows\ConversionMonedas.pdb
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\obj\Debug\net6.0-windows\ConversionMonedas.genruntimeconfig.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana III\ConversionMonedas\ConversionMonedas\obj\Debug\net6.0-windows\ref\ConversionMonedas.dll

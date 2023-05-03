@@ -1,0 +1,17 @@
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\bin\Debug\net6.0-windows\IdiomasTarea.exe
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\bin\Debug\net6.0-windows\IdiomasTarea.deps.json
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\bin\Debug\net6.0-windows\IdiomasTarea.runtimeconfig.json
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\bin\Debug\net6.0-windows\IdiomasTarea.dll
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\bin\Debug\net6.0-windows\IdiomasTarea.pdb
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\obj\Debug\net6.0-windows\IdiomasTarea.csproj.AssemblyReference.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\obj\Debug\net6.0-windows\IdiomasTarea.csproj.GenerateResource.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\obj\Debug\net6.0-windows\IdiomasTarea.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\obj\Debug\net6.0-windows\IdiomasTarea.AssemblyInfoInputs.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\obj\Debug\net6.0-windows\IdiomasTarea.AssemblyInfo.cs
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\obj\Debug\net6.0-windows\IdiomasTarea.csproj.CoreCompileInputs.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\obj\Debug\net6.0-windows\IdiomasTarea.dll
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\obj\Debug\net6.0-windows\refint\IdiomasTarea.dll
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\obj\Debug\net6.0-windows\IdiomasTarea.pdb
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\obj\Debug\net6.0-windows\IdiomasTarea.genruntimeconfig.cache
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\obj\Debug\net6.0-windows\ref\IdiomasTarea.dll
+H:\Mi unidad\UAPA\Cuarto Trimestre\Programacion II\Semana I\Idiomas\IdiomasTarea\IdiomasTarea\obj\Debug\net6.0-windows\IdiomasTarea.frmIdioma.resources
